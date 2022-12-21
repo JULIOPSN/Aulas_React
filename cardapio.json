@@ -1,2 +1,5 @@
-{
+{ "id" : 0,
+    "nome ": "Pastel de Frango",
+    "descricao" :"Pastel de Frango com catupiry",
+    "preco ": 5.50,
 }
