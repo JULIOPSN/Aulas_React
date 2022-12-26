@@ -1,4 +1,4 @@
-
+[
   {
     id: 0,
     nome: "Pastel de Frango",
@@ -6,4 +6,4 @@
     preco: 5.50,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pSzSfc_W21gtNjfP8m2Dm__nhCJ9zAgh4g&usqp=CAU",
   }
-
+]
