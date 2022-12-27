@@ -1,9 +1,38 @@
 [
   {
-    id: 0,
+    "id": 0,
     "nome": "Pastel de Frango",
-   "descricao":"Pastel de Frango com catupiry",
-    preco: 5.50,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pSzSfc_W21gtNjfP8m2Dm__nhCJ9zAgh4g&usqp=CAU",
+    "descricao":"Pastel de Frango com catupiry",
+    "preco": 5.50,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pSzSfc_W21gtNjfP8m2Dm__nhCJ9zAgh4g&usqp=CAU",
+  },
+
+    {
+    "id": 1,
+    "nome": "Suco de Maracuja",
+    "descricao":"Suco de Maracujá Natural 500ml",
+    "preco": 3.00,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRJDXRzvTVSwF6cQQwaxQ5bGAWjwgT5YPVA&usqp=CAU",
+  },
+  {
+    "id": 2,
+    "nome": "Bomba",
+    "descricao":"Bomba de mortadelha",
+    "preco": 4.00,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSGXULtDA6sWl0i6vh7H3g2Bxj3wp-g7kkw&usqp=CAU",
+  },
+  {
+    "id": 3,
+    "nome": "Suco de Goiaba",
+    "descricao":"Suco de Goiaba Natural 500ml",
+    "preco": 3.00,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfVgH09ABzntw3nTm-eQA9Yh-HK0wLZv0uQ&usqp=CAU",
+  },
+  {
+    "id:" 4,
+    "nome": "Coxinha de Frango",
+    "descricao":"Coxinha de Frango Tradicional",
+    "preco": 8.50,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Zotfm6HNqX-wRHyucFY-7vcSuc-uBES6IQ&usqp=CAU",
   }
 ]
